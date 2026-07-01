@@ -41,3 +41,7 @@ coverage/
 # Cache
 .eslintcache
 .stylelintcache
+
+# Claude Code
+.claude/
+CLAUDE.md
